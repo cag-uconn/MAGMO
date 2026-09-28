@@ -6,7 +6,8 @@
   title={MAGMO: Multi-Attribute Graphs for Multiobjective Graph Processing with Application to Maritime Routing}, 
   author={Gold, Leo and Siddiqi, Afif and Sidoti, David and Pattipati, Krishna and Khan, Omer},
   booktitle={2026 IEEE International Symposium on Workload Characterization (IISWC 2026)}, 
-  year={2026}
+  year={2026},
+  doi={10.1109/IISWC71020.2026.00033},
 }
 ```
 
