@@ -1,3 +1,15 @@
+# MAGMO: Multi-Attribute Graphs for Multiobjective Graph Processing
+
+# Citation
+```
+@inproceedings{magmo_iiswc26,
+  title={MAGMO: Multi-Attribute Graphs for Multiobjective Graph Processing with Application to Maritime Routing}, 
+  author={Gold, Leo and Siddiqi, Afif and Sidoti, David and Pattipati, Krishna and Khan, Omer},
+  booktitle={2026 IEEE International Symposium on Workload Characterization (IISWC 2026)}, 
+  year={2026}
+}
+```
+
 # MAGMO: End-to-End Multiobjective Routing
 <img width="500" alt="MAGMO Output" src="https://github.com/user-attachments/assets/140d038f-0dce-462e-acf8-aedd56f62bfd" />
 
